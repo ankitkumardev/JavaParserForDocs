@@ -1,0 +1,152 @@
+Ankit Kumar
+Software Development Engineer
+I'm a quick learner and detail oriented person. I have 1+ year experience of working in Java/Springboot , Sql/PostgreSql.
+Experience of working in large codebases and have understanding of majority of tools.
+
+connectwithankit1@gmail.com
+
+9315528848
+
+WORK EXPERIENCE
+
+New Delhi, India
+
+linkedin.com/in/ankitwin
+
+SKILLS
+
+Software Development Engineer
+OYO
+
+C++
+
+08/2021 - Present,
+
+Ruby on Rails
+
+PostgreSql / SQL
+
+Data Structure
+
+OOPS
+
+Achievements/Tasks
+
+Automated generation of reconciliations , reduced eﬀorts of sending
+manual recons during month end for various countries.
+Created a new service for the patrons where they would be able to allot a
+certain number of inventory per month to be sold at a price plan (Deeply
+discounted/Free of cost) selected by them. Opting this service will provide
+free room nights to gain more long term customers.
+Created a generic reconciliation platform which was one stop solution for
+all the home and hotel business. This reduced dev eﬀorts to develop on
+multiple stacks. Any New Bills/Charges which needs additional
+development eﬀort was made conﬁgurable.
+
+SDE Intern
+OYO
+
+Java
+
+C
+
+SpringBoot
+
+Git and github
+HTML
+
+Python
+
+PERSONAL PROJECTS
+Student Course Registration
+Created Crud Application using Java/SpringBoot , which admits student
+to an organisation, and help them to pick and register their course.
+It enables admin and student login, and help them to drop or update
+their course .
+
+Ecommerce Website
+An e-commerce website which sells diﬀerent mobile phones and
+store/manage data of customers.
+Role : Frontend and Backend
+
+01/2021 - 07/2021,
+Achievements/Tasks
+
+Worked under Finance tech team of Oyo and created, managed and
+updated reconciliations for Hotels across India and abroad.
+Coordinate with cross-functional areas like ﬁnance, supply and business to
+drive a complete development lifecycle.
+
+ACADEMICS
+
+Solved various bugs during oncalls and on month ends during closure of
+reconciliations.
+
+Coursera
+
+Teaching Assistant
+PEPCODING
+
+Scored 100% marks in the Final assessment of Data Structure and Algorithmic
+Toolbox(COURSERA).
+
+Coding Ninjas contest 2020
+Secured 502 rank in Coding Ninjas contest 2020 among 30k participants.
+
+12/2019 - 02/2020,
+Achievements/Tasks
+
+Mentored students in building a conceptual understanding of Data
+Structures and Algorithms.
+
+LANGUAGES
+
+Took doubt sessions on coding and OOPS related queries.
+
+C++
+
+Java
+
+Full Professional Proﬁciency
+
+Full Professional Proﬁciency
+
+EDUCATION
+
+C
+
+Ruby
+
+Full Professional Proﬁciency
+
+Professional Working Proﬁciency
+
+Btech (Electronics and Communication)
+Delhi Technological University
+
+Python
+
+08/2017 - 07/2021,
+
+Professional Working Proﬁciency
+7.97 CGPA
+
+CBSE(12th boards)
+Kendriya Vidyalaya NTPC
+04/2016 - 03/2017,
+
+INTERESTS
+90.40%
+
+CBSE(10th boards)
+Kendriya Vidyalaya NTPC
+04/2014 - 03/2015,
+
+Watching technical videos
+Playing Chess
+
+10 CGPA
+
+Solving puzzles
+
+

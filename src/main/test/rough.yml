@@ -1,0 +1,361 @@
+{
+  "resumeId": "72431f04-8210-46ab-9c9e-ff68b0ee4e1e",
+  "resumeDisplayName": "Foundit Resume(2)",
+  "source": "foundit_user_profile",
+  "sections": [
+    {
+      "sectionSku": "personal_details",
+      "data": {
+                "personal_details": {} },
+      "metadata": {
+        "hidden": false,
+        "mandatory": true,
+        "displayName": "Personal Details"
+      }
+    },
+    {
+      "sectionSku": "profile_title",
+      "data": {
+        "profile_title": {
+          "title": "Fresher living in Gadhi",
+          "id": null
+        }
+      },
+      "metadata": {
+        "hidden": false,
+        "mandatory": true,
+        "displayName": "Profile Summary"
+      }
+    },
+    {
+      "sectionSku": "social_presence",
+      "data": {
+        "social_presence": [
+          {
+            "id": 616880,
+            "name": "linkedin",
+            "url": "www.linkedin.com/profile",
+            "description": "linkedin"
+          }
+        ]
+      },
+      "metadata": {
+        "hidden": false,
+        "mandatory": true,
+        "displayName": "Social Presence"
+      }
+    },
+    {
+      "sectionSku": "employments",
+      "data": {
+        "employments": [
+          {
+            "id": 184417175,
+            "designation": {
+              "id": "cf140c7e-e977-41e4-a097-5c80d43dc327",
+              "text": "Havildar Clerk"
+            },
+            "company": {
+              "id": "38075c2a-91f4-4893-9c38-28564972f0e4",
+              "text": "Boyen Haddin"
+            },
+            "salary": {
+              "currency": "INR",
+              "absoluteValue": 300000.00,
+              "salaryMode": {
+                "id": "7cad9bf9-222e-11e9-9330-1418775c7275",
+                "text": "Annually"
+              },
+              "confidential": false
+            },
+            "startDate": "2023-01-18",
+            "endDate": null,
+            "offeredSalary": {
+              "currency": "INR",
+              "absoluteValue": 0.00,
+              "salaryMode": null,
+              "confidential": null
+            },
+            "newCompany": null,
+            "offeredDesignation": null,
+            "title": null,
+            "noticePeriod": {
+              "days": 15,
+              "serving": false,
+              "lastWorkingDay": null
+            },
+            "kiwiEmploymentId": 92827863,
+            "experience": {
+              "years": 0,
+              "months": 0,
+              "days": 0
+            }
+          },
+          {
+            "id": 184417174,
+            "designation": {
+              "id": "2b58875f-a35c-4f1a-a3d5-d0f29b863b09",
+              "text": "Agility Logistics Afghanistan"
+            },
+            "company": {
+              "id": "e200ecb6-285b-4f98-b943-ded42222487f",
+              "text": "HADEED"
+            },
+            "salary": {
+              "currency": "INR",
+              "absoluteValue": 200000.00,
+              "salaryMode": {
+                "id": "7cad9bf9-222e-11e9-9330-1418775c7275",
+                "text": "Annually"
+              },
+              "confidential": false
+            },
+            "startDate": "2021-01-06",
+            "endDate": "2022-08-09",
+            "offeredSalary": {
+              "currency": "INR",
+              "absoluteValue": 0.00,
+              "salaryMode": null,
+              "confidential": null
+            },
+            "newCompany": null,
+            "offeredDesignation": null,
+            "title": null,
+            "noticePeriod": {
+              "days": null,
+              "serving": false,
+              "lastWorkingDay": null
+            },
+            "kiwiEmploymentId": 92827862,
+            "experience": {
+              "years": 1,
+              "months": 7,
+              "days": 3
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "hidden": false,
+        "mandatory": true,
+        "displayName": "Experience"
+      }
+    },
+    {
+      "sectionSku": "educations",
+      "data": {
+        "educations": [
+          {
+            "id": 186796903,
+            "highestQualification": {
+              "id": "488a3b0a-de62-4475-a705-54415a0748ae",
+              "text": "Bachelor of Science (B.Sc)"
+            },
+            "specialization": {
+              "id": "a1a11c09-4024-4539-8884-71bcb07f73e1",
+              "text": "BACHELOR OF MEDICAL LABORATORY SCIENCES"
+            },
+            "college": {
+              "id": "2b81468a-cd28-4410-b095-c393aa8615a8",
+              "text": "Bahawalpur Law College, Bahawalpur"
+            },
+            "educationType": {
+              "id": "f583b140-fc6b-11e8-92d8-000c290b6677",
+              "text": "Full time"
+            },
+            "board": null,
+            "medium": null,
+            "yearOfPassing": 2018,
+            "percentage": null,
+            "percentageRange": null
+          },
+          {
+            "id": 186796904,
+            "highestQualification": {
+              "id": "a31e0992-de30-11eb-96c9-0022486e8c2d",
+              "text": "Bachelor of Computer Science (BCS)"
+            },
+            "specialization": {
+              "id": "515c771e-de32-11eb-ba80-0242ac130004",
+              "text": "Cloud Computing"
+            },
+            "college": {
+              "id": "2b81468a-cd28-4410-b095-c393aa8615a8",
+              "text": "Bahawalpur Law College, Bahawalpur"
+            },
+            "educationType": {
+              "id": "f583b140-fc6b-11e8-92d8-000c290b6677",
+              "text": "Full time"
+            },
+            "board": null,
+            "medium": null,
+            "yearOfPassing": 2019,
+            "percentage": null,
+            "percentageRange": null
+          }
+        ]
+      },
+      "metadata": {
+        "hidden": false,
+        "mandatory": true,
+        "displayName": "Education"
+      }
+    },
+    {
+      "sectionSku": "skills",
+      "data": {
+        "skills": []
+      },
+      "metadata": {
+        "hidden": false,
+        "mandatory": true,
+        "displayName": "Skills"
+      }
+    },
+    {
+      "sectionSku": "it_skills",
+      "data": {
+        "it_skills": [
+          {
+            "id": 256503666,
+            "skill": {
+              "id": "5a5b5838-5452-11e9-a89e-70106fbef856",
+              "text": "linux ha "
+            },
+            "createdAt": null,
+            "updatedAt": null,
+            "experience": {
+              "years": null,
+              "months": null
+            },
+            "version": null,
+            "lastUsed": null
+          }
+        ]
+      },
+      "metadata": {
+        "hidden": false,
+        "mandatory": true,
+        "displayName": "IT Skills"
+      }
+    },
+    {
+      "sectionSku": "courses_and_certifications",
+      "data": {
+        "courses_and_certifications": [
+          {
+            "id": 16576793,
+            "name": "gab",
+            "issuer": "gab",
+            "expiryDate": "2029-04-01",
+            "kiwiCertificationId": 53,
+            "lifetimeValidity": null
+          }
+        ]
+      },
+      "metadata": {
+        "hidden": false,
+        "mandatory": true,
+        "displayName": "Courses and Certifications"
+      }
+    },
+    {
+      "sectionSku": "awards",
+      "data": {
+        "awards": [
+          {
+            "id": 756082,
+            "title": "hana",
+            "description": ".;..",
+            "date": "2020-04-01"
+          }
+        ]
+      },
+      "metadata": {
+        "hidden": false,
+        "mandatory": true,
+        "displayName": "Awards"
+      }
+    },
+    {
+      "sectionSku": "languages",
+      "data": {
+        "languages": []
+      },
+      "metadata": {
+        "hidden": true,
+        "mandatory": true,
+        "displayName": "Languages"
+      }
+    },
+    {
+      "sectionSku": "projects",
+      "data": {
+        "projects": [
+          {
+            "id": 6430669,
+            "title": "sample",
+            "client": "sample",
+            "startDate": "2019-02-01",
+            "endDate": "2021-04-01",
+            "description": "zzz",
+            "url": "lionk",
+            "mediaUUID": null,
+            "location": {
+              "id": "5f9e866b-74dd-4871-bbe5-5626481c01eb",
+              "text": "Gadhi"
+            },
+            "kiwiProjectId": 6926124,
+            "projectMedia": null
+          }
+        ]
+      },
+      "metadata": {
+        "hidden": true,
+        "mandatory": true,
+        "displayName": "Projects"
+      }
+    }
+  ],
+  "structure": {
+    "skills": {
+      "position": 4,
+      "orientation": 0
+    },
+    "projects": {
+      "position": 9,
+      "orientation": 1
+    },
+    "profile_title": {
+      "position": 1,
+      "orientation": 1
+    },
+    "languages": {
+      "position": 8,
+      "orientation": 0
+    },
+    "awards": {
+      "position": 7,
+      "orientation": 1
+    },
+    "educations": {
+      "position": 3,
+      "orientation": 1
+    },
+    "it_skills": {
+      "position": 5,
+      "orientation": 0
+    },
+    "courses_and_certifications": {
+      "position": 6,
+      "orientation": 0
+    },
+    "employments": {
+      "position": 2,
+      "orientation": 1
+    }
+  },
+  "attached": false,
+  "linkCreated": false,
+  "downloadCount": 0
+}

@@ -1,0 +1,573 @@
+{
+    "resumeId": "75ba6ed9-7052-423a-95d0-13d1b81213a9",
+    "resumeDisplayName": "Foundit Resume(1)",
+    "source": "foundit_user_profile",
+    "sections": [
+        {
+            "sectionSku": "personal_details",
+            "data": {
+                "personal_details": {
+                    "uuid": "60c87d1b-78ec-4915-9f05-9f571d6448e7",
+                    "userId": 83522363,
+                    "fullName": "full name",
+                    "firstName": null,
+                    "lastName": null,
+                    "displayName": "full name",
+                    "site": "rexmonster",
+                    "country": "IN",
+                    "emails": [
+                        {
+                            "createdAt": 1675419365948,
+                            "updatedAt": 1675419365948,
+                            "id": null,
+                            "primary": 1,
+                            "verifiedAt": null,
+                            "status": 0,
+                            "email": "newSa221ab1@yopmail.com"
+                        }
+                    ],
+                    "mobileNumbers": [
+                        {
+                            "createdAt": 1675419365934,
+                            "updatedAt": 1675419365934,
+                            "id": null,
+                            "primary": 1,
+                            "verifiedAt": null,
+                            "countryCode": "91",
+                            "mobileNumber": "4124141245",
+                            "status": 0
+                        }
+                    ],
+                    "homeTown": null,
+                    "nationality": {
+                        "id": "20601099-fc81-11e8-92d8-000c290b6677",
+                        "text": "Indian"
+                    },
+                    "additionalPersonalDetail": {
+                        "profileTitle": "FRESHER",
+                        "gender": null,
+                        "dob": null,
+                        "maritalStatus": null,
+                        "languages": [
+                            {
+                                "id": 103910234,
+                                "language": {
+                                    "id": "867047e2-ff6a-11e8-92d8-000c290b6677",
+                                    "text": "Bengali"
+                                },
+                                "read": 1,
+                                "write": 1,
+                                "speak": 1,
+                                "proficiency": {
+                                    "id": "a80fca09-fc72-11e8-92d8-000c290b6677",
+                                    "text": "Beginner"
+                                }
+                            },
+                            {
+                                "id": 103910235,
+                                "language": {
+                                    "id": "e5734c80-60e3-11e9-a89e-70106fbef856",
+                                    "text": "Hebrew"
+                                },
+                                "read": 1,
+                                "write": 1,
+                                "speak": 1,
+                                "proficiency": {
+                                    "id": "a80fca09-fc72-11e8-92d8-000c290b6677",
+                                    "text": "Beginner"
+                                }
+                            }
+                        ],
+                        "workAuthorizedCountries": [],
+                        "residentCountries": [],
+                        "workStatusUSA": null,
+                        "category": null,
+                        "disability": null,
+                        "passportNumber": null,
+                        "permanentAddress": null,
+                        "pincode": null,
+                        "differentlyAbled": null,
+                        "currentCompany": {
+                            "id": "a887bf2e-646c-420d-8de6-f727fa7358f1",
+                            "text": "Monster"
+                        },
+                        "currentDesignation": {
+                            "id": "285a5907-0e30-48c3-b5c9-eb7ac6d40f2d",
+                            "text": "Software Software Engineer"
+                        },
+                        "currentSalary": {
+                            "currency": "INR",
+                            "absoluteValue": 205000.00,
+                            "salaryMode": {
+                                "id": "7cad9bf9-222e-11e9-9330-1418775c7275",
+                                "text": "Annually"
+                            },
+                            "confidential": null
+                        },
+                        "experience": {
+                            "years": 3,
+                            "months": 1
+                        },
+                        "currentLocation": {
+                            "id": "a52f6123-bc87-46ca-8ae7-ebfc99b6cead",
+                            "text": "Halol",
+                            "otherText": null,
+                            "extraInfo": {
+                                "countryIsoCode": "IN",
+                                "countryName": "India",
+                                "countryUuId": "11e2b871-1b9e-48c0-a7a5-1174672ae846"
+                            }
+                        },
+                        "mobileNumber": null,
+                        "drivingLicense": null,
+                        "religion": null,
+                        "profileSnapshot": {
+                            "currentCompany": {
+                                "id": "a887bf2e-646c-420d-8de6-f727fa7358f1",
+                                "text": "Monster"
+                            },
+                            "currentDesignation": {
+                                "id": "285a5907-0e30-48c3-b5c9-eb7ac6d40f2d",
+                                "text": "Software Software Engineer"
+                            },
+                            "currentSalary": {
+                                "currency": "INR",
+                                "absoluteValue": 205000.00,
+                                "salaryMode": {
+                                    "id": "7cad9bf9-222e-11e9-9330-1418775c7275",
+                                    "text": "Annually"
+                                },
+                                "confidential": null
+                            },
+                            "totalExperience": {
+                                "years": 3,
+                                "months": 1,
+                                "days": 5
+                            }
+                        },
+                        "workVisaType": null,
+                        "workVisaTypeUpdated": null
+                    },
+                    "avatar": null,
+                    "visibility": true,
+                    "experienceLevel": "EXPERIENCED",
+                    "socialProviders": null,
+                    "purchases": [],
+                    "createdAt": 1675419523372,
+                    "updatedAt": 1675671986180,
+                    "jobSearchStage": {
+                        "id": "863dc097-0a9b-11e9-92d8-000c290b6677",
+                        "text": "Just Starting"
+                    },
+                    "primaryEmail": {
+                        "createdAt": 1675419365948,
+                        "updatedAt": 1675419365948,
+                        "id": null,
+                        "primary": 1,
+                        "verifiedAt": null,
+                        "status": 0,
+                        "email": "newSa221ab1@yopmail.com"
+                    },
+                    "primaryMobileNumber": {
+                        "createdAt": 1675419365934,
+                        "updatedAt": 1675419365934,
+                        "id": null,
+                        "primary": 1,
+                        "verifiedAt": null,
+                        "countryCode": "91",
+                        "mobileNumber": "4124141245",
+                        "status": 0
+                    },
+                    "registartionDate": 1675419523039,
+                    "kiwiUserId": 90363381,
+                    "kiwiProfileId": 106151457,
+                    "profileId": 103113218,
+                    "profileVisibility": true,
+                    "avatarUpdatedAt": null,
+                    "id": null
+                }
+            },
+            "metadata": {
+                "hidden": false,
+                "mandatory": true,
+                "displayName": "Personal Details"
+            }
+        },
+        {
+            "sectionSku": "profile_title",
+            "data": {
+                "profile_title": {
+                    "title": "FRESHER",
+                    "id": null
+                }
+            },
+            "metadata": {
+                "hidden": false,
+                "mandatory": true,
+                "displayName": "Profile Summary"
+            }
+        },
+        {
+            "sectionSku": "social_presence",
+            "data": {
+                "social_presence": []
+            },
+            "metadata": {
+                "hidden": false,
+                "mandatory": true,
+                "displayName": "Social Presence"
+            }
+        },
+        {
+            "sectionSku": "employments",
+            "data": {
+                "employments": [
+                    {
+                        "id": 184417199,
+                        "designation": {
+                            "id": "285a5907-0e30-48c3-b5c9-eb7ac6d40f2d",
+                            "text": "Software Software Engineer"
+                        },
+                        "company": {
+                            "id": "a887bf2e-646c-420d-8de6-f727fa7358f1",
+                            "text": "Monster"
+                        },
+                        "salary": {
+                            "currency": "INR",
+                            "absoluteValue": 205000.00,
+                            "salaryMode": {
+                                "id": "7cad9bf9-222e-11e9-9330-1418775c7275",
+                                "text": "Annually"
+                            },
+                            "confidential": false
+                        },
+                        "startDate": "2020-07-05",
+                        "endDate": null,
+                        "offeredSalary": {
+                            "currency": "INR",
+                            "absoluteValue": 0.00,
+                            "salaryMode": null,
+                            "confidential": null
+                        },
+                        "newCompany": null,
+                        "offeredDesignation": null,
+                        "title": null,
+                        "noticePeriod": {
+                            "days": 30,
+                            "serving": false,
+                            "lastWorkingDay": null
+                        },
+                        "kiwiEmploymentId": 92827894,
+                        "experience": {
+                            "years": 2,
+                            "months": 7,
+                            "days": 1
+                        }
+                    },
+                    {
+                        "id": 184417198,
+                        "designation": {
+                            "id": "f8cb1f81-e82f-42fa-9d9f-e176e7d8ccee",
+                            "text": "Software Intern"
+                        },
+                        "company": {
+                            "id": "a887bf2e-646c-420d-8de6-f727fa7358f1",
+                            "text": "Monster"
+                        },
+                        "salary": {
+                            "currency": "INR",
+                            "absoluteValue": 5000.00,
+                            "salaryMode": {
+                                "id": "7cad9bf9-222e-11e9-9330-1418775c7275",
+                                "text": "Annually"
+                            },
+                            "confidential": false
+                        },
+                        "startDate": "2020-01-01",
+                        "endDate": "2020-06-19",
+                        "offeredSalary": {
+                            "currency": "INR",
+                            "absoluteValue": 0.00,
+                            "salaryMode": null,
+                            "confidential": null
+                        },
+                        "newCompany": null,
+                        "offeredDesignation": null,
+                        "title": null,
+                        "noticePeriod": {
+                            "days": null,
+                            "serving": false,
+                            "lastWorkingDay": null
+                        },
+                        "kiwiEmploymentId": 92827893,
+                        "experience": {
+                            "years": 0,
+                            "months": 5,
+                            "days": 4
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "hidden": false,
+                "mandatory": true,
+                "displayName": "Experience"
+            }
+        },
+        {
+            "sectionSku": "educations",
+            "data": {
+                "educations": [
+                    {
+                        "id": 186796922,
+                        "highestQualification": {
+                            "id": "b521765c-b4b2-4b92-8f8f-7862a5e0f315",
+                            "text": "12th Class (XII)"
+                        },
+                        "specialization": null,
+                        "college": null,
+                        "educationType": {
+                            "id": "f583b140-fc6b-11e8-92d8-000c290b6677",
+                            "text": "Full time"
+                        },
+                        "board": {
+                            "id": "dae848f9-17b8-4df5-91bc-50309983735e",
+                            "text": "Central Board of Secondary Education(CBSE)"
+                        },
+                        "medium": {
+                            "id": "3c263ff4-019c-4943-aea1-a457f4790467",
+                            "text": "Sanskrit"
+                        },
+                        "yearOfPassing": 2027,
+                        "percentage": null,
+                        "percentageRange": null
+                    },
+                    {
+                        "id": 186796923,
+                        "highestQualification": {
+                            "id": "488a3b0a-de62-4475-a705-54415a0748ae",
+                            "text": "Bachelor of Science (B.Sc)"
+                        },
+                        "specialization": {
+                            "id": "cbdfaea4-43bd-450f-9688-d5e1f4622552",
+                            "text": "Computers"
+                        },
+                        "college": {
+                            "id": "37a3627e-3b57-11e9-a89e-70106fbef856",
+                            "text": "Pope John Paul Ii College Of Education, Pondicherry"
+                        },
+                        "educationType": {
+                            "id": "f583b140-fc6b-11e8-92d8-000c290b6677",
+                            "text": "Full time"
+                        },
+                        "board": null,
+                        "medium": null,
+                        "yearOfPassing": 2026,
+                        "percentage": null,
+                        "percentageRange": null
+                    }
+                ]
+            },
+            "metadata": {
+                "hidden": false,
+                "mandatory": true,
+                "displayName": "Education"
+            }
+        },
+        {
+            "sectionSku": "skills",
+            "data": {
+                "skills": [
+                    {
+                        "id": 256503748,
+                        "skill": {
+                            "id": "71154432-5462-11e9-a89e-70106fbef856",
+                            "text": "JAR"
+                        },
+                        "createdAt": null,
+                        "updatedAt": null
+                    },
+                    {
+                        "id": 256503747,
+                        "skill": {
+                            "id": null,
+                            "text": "einglish"
+                        },
+                        "createdAt": null,
+                        "updatedAt": null
+                    },
+                    {
+                        "id": 256503749,
+                        "skill": {
+                            "id": null,
+                            "text": "gujarat"
+                        },
+                        "createdAt": null,
+                        "updatedAt": null
+                    }
+                ]
+            },
+            "metadata": {
+                "hidden": false,
+                "mandatory": true,
+                "displayName": "Skills"
+            }
+        },
+        {
+            "sectionSku": "it_skills",
+            "data": {
+                "it_skills": [
+                    {
+                        "id": 256503779,
+                        "skill": {
+                            "id": "8997ffdb-8967-49ed-8b2b-df6a17f05b48",
+                            "text": "Java"
+                        },
+                        "createdAt": null,
+                        "updatedAt": null,
+                        "experience": {
+                            "years": 1,
+                            "months": 3
+                        },
+                        "version": "1",
+                        "lastUsed": "2022-01-01"
+                    },
+                    {
+                        "id": 256503780,
+                        "skill": {
+                            "id": "93e7d2ab-7729-4a8a-81cf-d74aabb90760",
+                            "text": "Spring"
+                        },
+                        "createdAt": null,
+                        "updatedAt": null,
+                        "experience": {
+                            "years": 2,
+                            "months": 4
+                        },
+                        "version": "1",
+                        "lastUsed": "2023-01-01"
+                    }
+                ]
+            },
+            "metadata": {
+                "hidden": false,
+                "mandatory": true,
+                "displayName": "IT Skills"
+            }
+        },
+        {
+            "sectionSku": "courses_and_certifications",
+            "data": {
+                "courses_and_certifications": []
+            },
+            "metadata": {
+                "hidden": false,
+                "mandatory": true,
+                "displayName": "Courses and Certifications"
+            }
+        },
+        {
+            "sectionSku": "awards",
+            "data": {
+                "awards": []
+            },
+            "metadata": {
+                "hidden": false,
+                "mandatory": true,
+                "displayName": "Awards"
+            }
+        },
+        {
+            "sectionSku": "languages",
+            "data": {
+                "languages": [
+                    {
+                        "id": 103910234,
+                        "language": {
+                            "id": "867047e2-ff6a-11e8-92d8-000c290b6677",
+                            "text": "Bengali"
+                        },
+                        "read": 1,
+                        "write": 1,
+                        "speak": 1,
+                        "proficiency": {
+                            "id": "a80fca09-fc72-11e8-92d8-000c290b6677",
+                            "text": "Beginner"
+                        }
+                    },
+                    {
+                        "id": 103910235,
+                        "language": {
+                            "id": "e5734c80-60e3-11e9-a89e-70106fbef856",
+                            "text": "Hebrew"
+                        },
+                        "read": 1,
+                        "write": 1,
+                        "speak": 1,
+                        "proficiency": {
+                            "id": "a80fca09-fc72-11e8-92d8-000c290b6677",
+                            "text": "Beginner"
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "hidden": true,
+                "mandatory": true,
+                "displayName": "Languages"
+            }
+        },
+        {
+            "sectionSku": "projects",
+            "data": {
+                "projects": []
+            },
+            "metadata": {
+                "hidden": true,
+                "mandatory": true,
+                "displayName": "Projects"
+            }
+        }
+    ],
+    "structure": {
+        "skills": {
+            "position": 4,
+            "orientation": 0
+        },
+        "projects": {
+            "position": 9,
+            "orientation": 1
+        },
+        "profile_title": {
+            "position": 1,
+            "orientation": 1
+        },
+        "languages": {
+            "position": 8,
+            "orientation": 0
+        },
+        "awards": {
+            "position": 7,
+            "orientation": 1
+        },
+        "educations": {
+            "position": 3,
+            "orientation": 1
+        },
+        "it_skills": {
+            "position": 5,
+            "orientation": 0
+        },
+        "courses_and_certifications": {
+            "position": 6,
+            "orientation": 0
+        },
+        "employments": {
+            "position": 2,
+            "orientation": 1
+        }
+    },
+    "attached": false,
+    "linkCreated": false,
+    "downloadCount": 0
+}
